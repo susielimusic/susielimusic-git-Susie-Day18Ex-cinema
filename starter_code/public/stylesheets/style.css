@@ -1,11 +1,9 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
 
 a {
-  color: #00B7FF;
-}
+  color: #00B7FF; }
 
 .title {
   position: absolute;
@@ -13,8 +11,7 @@ a {
   left: 45%;
   transform: translate(-50%, -50%);
   color: white;
-  font-size: 660%;
-}
+  font-size: 660%; }
 
 .btn {
   position: absolute;
@@ -28,5 +25,6 @@ a {
   padding: 12px 24px;
   border: none;
   cursor: pointer;
-  border-radius: 25px;
-}
+  border-radius: 25px; }
+
+/*# sourceMappingURL=style.css.map */
